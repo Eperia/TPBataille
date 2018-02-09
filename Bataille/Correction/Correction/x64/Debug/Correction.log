@@ -1,0 +1,6 @@
+﻿  string.c
+  main.c
+c:\users\tcadit\documents\visual studio 2015\projects\correction\correction\main.c(10): warning C4477: 'printf' : la chaîne de format '%d' nécessite un argument de type 'int', mais l'argument variadique 1 est de type 'size_t'
+  c:\users\tcadit\documents\visual studio 2015\projects\correction\correction\main.c(10): note: utilisez '%zd' dans la chaîne de format
+  Génération de code en cours...
+  Correction.vcxproj -> C:\Users\tcadit\Documents\Visual Studio 2015\Projects\Correction\x64\Debug\Correction.exe
